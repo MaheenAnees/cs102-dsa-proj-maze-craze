@@ -20,3 +20,6 @@ Start from the starting point (source node) and if there are multiple openings, 
 ### Libraries used
 - Pygame
 
+### Acknowledgements 
+- https://en.wikipedia.org/wiki/Maze_generation_algorithm
+- https://youtu.be/Xthh4SEMA2o
